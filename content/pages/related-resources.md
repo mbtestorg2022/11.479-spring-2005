@@ -69,7 +69,7 @@ Organizations
 
 ### Technologies
 
-*   On-Plot Sanitation in Low-Income Urban Communities (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/61-on-plot-sanitation-in-urban-areas.pdf))
+*   On-Plot Sanitation in Low-Income Urban Communities ([PDF](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/61-on-plot-sanitation-in-urban-areas.pdf))
 
 ### Urban Water Supply
 
@@ -77,7 +77,7 @@ Organizations
 *   [Mega Slums: The Coming Sanitary Crisis](https://www.ircwash.org/resources/mega-slums-coming-sanitary-crisis)
 *   On-Plot Sanitation in Low-Income Urban Communities (DFID) ([PDF](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/61-on-plot-sanitation-in-urban-areas.pdf))
 *   [Sewerage and Sanitation in Jakarta and Manila (WB)](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/880091468095971513/sewerage-and-sanitation-jakarta-and-manila)
-*   Sanitation Service for the Urban Poor in Jamaica (case study) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.bvsde.paho.org/bvsacd/ehp/lxviii.pdf))
+*   Sanitation Service for the Urban Poor in Jamaica (case study) ([PDF](http://www.bvsde.paho.org/bvsacd/ehp/lxviii.pdf))
 *   [Groundwater: Information on Sources of Groundwater, Contamination, etc.](http://www.tgpc.state.tx.us/groundwater-contamination/)
 
 ### Privatization
