@@ -6,6 +6,7 @@ description: This file contains the review of the public health, environmental, 
   priorities.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/e66204a18cb1c395bb7478f181722f54_session_4_kickof.pdf
 file_type: application/pdf
+parent_uid: 069ecefb-e481-c5db-a185-29c1bc47738c
 resourcetype: Document
 title: session_4_kickof.pdf
 uid: e66204a1-8cb1-c395-bb74-78f181722f54

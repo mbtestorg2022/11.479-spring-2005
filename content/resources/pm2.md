@@ -5,6 +5,7 @@ description: This file provides information on the assignment to review the back
   to a private-sector concession in Hyderabad.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/8a8744cb33fadf2333a013bd543bf620_pm2.pdf
 file_type: application/pdf
+parent_uid: 5fa7bfa9-6143-64d1-7546-0da9bb2692f9
 resourcetype: Document
 title: pm2.pdf
 uid: 8a8744cb-33fa-df23-33a0-13bd543bf620

@@ -5,6 +5,7 @@ description: This file is a proposal which recommends that the town consider a l
   proper hygiene.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/22e271d240ff7782671946f82bd49915_brown.pdf
 file_type: application/pdf
+parent_uid: 5fa7bfa9-6143-64d1-7546-0da9bb2692f9
 resourcetype: Document
 title: brown.pdf
 uid: 22e271d2-40ff-7782-6719-46f82bd49915
